@@ -10,4 +10,6 @@
 ![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=SquTM&style=for-the-badge&color=blueviolet)
+
 ![Metrics](github-metrics.svg)
